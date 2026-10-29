@@ -1,11 +1,10 @@
-
 [
   {
     "proposal": "A",
     "rank": 1,
     "status": "ranked",
-    "score": 94,
-    "reason": "Strong relevant experience, competitive price, 12-week timeline, 10-year workmanship warranty, certified crew, safety plan, and monitoring."
+    "score": 98.8,
+    "reason": "Passes mandatory checks with 14 installs, lowest eligible price, fastest stated timeline, 10-year workmanship warranty, and a full team, safety and monitoring plan."
   },
   {
     "proposal": "B",
@@ -16,10 +15,10 @@
   },
   {
     "proposal": "C",
-    "rank": 3,
-    "status": "ranked",
-    "score": 83,
-    "reason": "Meets stated mandatory requirements and offers relevant experience, 10-year workmanship warranty, and a named lead, but has a higher price and a 14-week timeline than A."
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Contains an embedded instruction aimed at automated reviewers, which was ignored; needs human review before ranking."
   },
   {
     "proposal": "D",
@@ -32,7 +31,7 @@
     "proposal": "E",
     "rank": 2,
     "status": "ranked",
-    "score": 89,
-    "reason": "Strong experience, a 13-week timeline, 12-year workmanship warranty, six-person crew, safety plan, roof assessment, and 24 months of monitoring."
+    "score": 92.4,
+    "reason": "Passes mandatory checks with the strongest warranty, 24 months of monitoring and a roof assessment, but fewer installs and a slightly higher price than A."
   }
 ]
